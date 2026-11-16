@@ -19,4 +19,4 @@ El usuario de MySQL es `root` sin clave. Si tiene clave, hay que cambiarla en `C
 
 Al final debería salir `procesadas=2 rechazadas=1`.
 
-Victor Manuel Hernández David
+Juan Camilo Hernández David
